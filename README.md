@@ -1,6 +1,10 @@
 # PyconIOS
 Python program to generate/resize icon image for iOS development. Input image should be at *least* 1024x1024px
 
+[![LICENSE](https://img.shields.io/github/license/lewiswatson55/PyconIOS.svg?style=flat-square)](https://github.com/lewiswatson55/PyconIOS/blob/master/LICENSE)
+<br>
+[![Releases](https://img.shields.io/github/release/lewiswatson55/PyconIOS/all.svg?style=flat-square)](https://github.com/lewiswatson55/PyconIOS/releases)
+
 ## Dependencies
   [Python](https://www.python.org/downloads/)
 
