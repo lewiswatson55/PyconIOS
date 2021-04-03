@@ -25,11 +25,11 @@ $ python pyconios.py testicon.png
 ## Setting Up Python:
   1. Download and install Python with PIP
 
-  2. (Recommended) Install dependencies with PIP using ``` $ pip install -r requirements.txt ```
+  2. (Recommended) Install dependencies with PIP using ``` pip install -r requirements.txt ```
 
   or
 
-  2. Install Pillow manually with PIP using ``` $ pip install Pillow ```
+  2. Install Pillow manually with PIP using ``` pip install Pillow ```
   This will not specify a version and your results may vary. If other dependencies are added this option will be removed.
 
   That's your setup done.
