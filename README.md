@@ -26,9 +26,9 @@ $ python pyconios.py testicon.png
   or
 
   2. Install Pillow manually with PIP using ``` $ pip install Pillow ```
-  This will not specify a version and your results may vary. If other dependencies are added this will be removed.
+  This will not specify a version and your results may vary. If other dependencies are added this option will be removed.
 
-  That's your python set up.
+  That's your setup done.
 
 
 
