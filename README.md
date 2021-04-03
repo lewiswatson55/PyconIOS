@@ -35,7 +35,6 @@ $ python pyconios.py testicon.png
   That's your setup done.
 
 
-
 # Author and Acknowledgements
 
   Created by: [Lewis N Watson](https://github.com/lewiswatson55/)
